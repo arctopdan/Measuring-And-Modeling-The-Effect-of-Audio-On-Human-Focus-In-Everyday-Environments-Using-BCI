@@ -1,14 +1,14 @@
 ## Measuring And Modeling The Effect of Audio On Human Focus In Everyday Environments Using Brain-Computer Interface Technology
 
-This is a repository for the paper: Measuring And Modeling The Effect of Audio On Human Focus In Everyday Environments Using Brain-Computer Interface Technology. (doi: 10.3389/fncom.2021.760561)
+This is a repository for the Frontiers in Computational Neuroscience paper: Measuring And Modeling The Effect of Audio On Human Focus In Everyday Environments Using Brain-Computer Interface Technology. (doi: 10.3389/fncom.2021.760561)
 
-The goal of this study was to learn what properties of sound affect human focus the most.
+The goal of this study was to learn what properties of audio affect human focus the most.
 
 To do so, brain activity from 51 participants was analyzed. Participants recorded their brain activity using a wearable device (Muse-S by Interaxon) at home while performing various tasks and listening to different audio streams. 
 
 During task performance, participants listened to one of four different background sounds (one per day, including Silence, Music playlists by Apple and Spotify, and personalized soundscapes by Endel). 
 
-Brain decoding technology (neuOS by Arctop) was applied to transform the brain sensor data to predicted focus level dynamics at a rate of 5Hz over the course of each 30 minute session when participants performed a Preferred Task. 
+Brain decoding technology (Neuos SDK by Arctop) was applied to transform the brain sensor data to predicted focus level dynamics at a rate of 5 Hz over the course of each 30 minute session when participants performed a Preferred Task. 
 
 The data and scripts in this repository demonstrate both how we validated the focus models predictions, and how we compared between the focus scores elicited by the different background sounds (including the statistical analysis).
 
